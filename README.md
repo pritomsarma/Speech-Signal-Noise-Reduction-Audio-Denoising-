@@ -78,7 +78,7 @@ Audio denoising plays a crucial role in real-world applications like communicati
 
 ##  Results
 
-![image]()
+![image](https://github.com/pritomsarma/Speech-Signal-Noise-Reduction-Audio-Denoising-/blob/ae343bcd1da0091bba975689a6388bbea7d02d12/resources/audiodenoiser_.png)
 
 The implemented filters successfully reduce noise and improve the clarity of speech signals. Each method has its advantages:
 
