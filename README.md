@@ -1,7 +1,7 @@
 
-# 🎧 Speech Signal Noise Reduction (Audio Denoising) using MATLAB
+#  Speech Signal Noise Reduction (Audio Denoising) using MATLAB
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on reducing noise from speech signals using MATLAB-based digital signal processing techniques. The primary objective is to enhance the clarity and quality of audio signals by removing unwanted disturbances such as background noise, electrical interference, and random signal fluctuations.
 
@@ -9,7 +9,7 @@ Audio denoising plays a crucial role in real-world applications like communicati
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * To understand the fundamentals of speech signal processing
 * To implement noise reduction techniques using MATLAB
@@ -18,7 +18,7 @@ Audio denoising plays a crucial role in real-world applications like communicati
 
 ---
 
-## 🧠 Key Concepts Used
+##  Key Concepts Used
 
 * Digital Signal Processing (DSP)
 * Frequency Domain Analysis (FFT)
@@ -28,7 +28,7 @@ Audio denoising plays a crucial role in real-world applications like communicati
 
 ---
 
-## ⚙️ Techniques Implemented
+##  Techniques Implemented
 
 ### 1. Bandpass Filter
 
@@ -45,7 +45,7 @@ Audio denoising plays a crucial role in real-world applications like communicati
 
 ---
 
-## 🛠️ MATLAB Functions Used
+##  MATLAB Functions Used
 
 * `audioread()` – Load audio signals
 * `audiowrite()` – Save processed audio
@@ -57,7 +57,7 @@ Audio denoising plays a crucial role in real-world applications like communicati
 
 ---
 
-## 📊 Workflow
+##  Workflow
 
 1. Load or generate a speech signal
 2. Add noise (optional for testing)
@@ -67,7 +67,7 @@ Audio denoising plays a crucial role in real-world applications like communicati
 
 ---
 
-## 🚀 Applications
+##  Applications
 
 * Speech enhancement systems
 * Noise reduction in mobile communication
@@ -76,7 +76,9 @@ Audio denoising plays a crucial role in real-world applications like communicati
 
 ---
 
-## 📈 Results
+##  Results
+
+![image]()
 
 The implemented filters successfully reduce noise and improve the clarity of speech signals. Each method has its advantages:
 
@@ -86,7 +88,7 @@ The implemented filters successfully reduce noise and improve the clarity of spe
 
 ---
 
-## 🔮 Future Scope
+##  Future Scope
 
 * Implementation of adaptive filters (LMS, RLS)
 * Use of machine learning for intelligent denoising
